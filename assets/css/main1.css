@@ -1,0 +1,12 @@
+.name .contact li {
+  padding: 5px 0;
+  transform: translate(-40px);
+  background-color: #e9e7ea;
+}
+.intro ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-align: right;
+  line-height: 30px;
+}
